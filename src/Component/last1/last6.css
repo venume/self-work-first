@@ -1,0 +1,11 @@
+.n{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -100px;
+}
+.o{
+   display: flex; 
+   margin-left: 70px;
+   font-size: 20px;
+   justify-content: space-between;
+}

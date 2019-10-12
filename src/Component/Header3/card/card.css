@@ -1,0 +1,35 @@
+img{
+height: 180px;
+width: 290px !important;
+padding: 30px;
+}
+.adit{
+    color:green;
+border: 1px solid green;
+width: 80px;
+display: flex;
+justify-content: space-between;
+border-radius: 5px;
+margin-top: 5px;
+z-index: 0;
+}
+.pry{
+    border: 1px solid rgb(236, 233, 233);
+    border-radius: 5px !important;
+background-color: white !important;
+
+}
+.pry:hover{
+    box-shadow: 3px 3px 3px rgb(131, 110, 110);
+}
+.try{
+    display: flex;
+    justify-content: space-between;
+    width: 290px;
+    height: 30px;
+}
+@media only screen and (max-width: 600px) {
+    .z{
+display: flex;
+    }
+}

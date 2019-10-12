@@ -1,0 +1,18 @@
+.k{
+    height: 500px ;
+    width: 100%;
+    display: flex;
+justify-content: space-around;
+margin-top: 50px;
+color: black;
+}
+.l{
+    justify-content: space-between;
+    width:300px;
+}
+
+
+.m{
+    width:300px;
+
+     }

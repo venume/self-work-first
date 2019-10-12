@@ -1,0 +1,33 @@
+.bodyy2{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.bore1{
+    display: flex;
+    border:  1px solid rgb(196, 194, 194);
+    height: 70px;
+    width: 350px;
+    margin-top: 30px;
+    border-radius: 5px;
+    align-items: center;
+}
+h3{
+    margin-top: 15px;
+    
+}
+.bore2{
+    font-size: 30px;
+    color: blue;
+    justify-items:space-between;
+}.bore3{
+    background-color: white;
+    color: blue;
+    border: none;
+}
+@media screen and (max-width:500px){
+    .bodyy2{
+        width: 100%;
+        flex-direction: column; 
+ }
+    }

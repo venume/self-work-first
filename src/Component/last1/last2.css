@@ -1,0 +1,23 @@
+.one1{
+    border: 1px solid rgb(221, 220, 220);
+    width: 1200px;
+    height:135px;
+    margin-left: 50px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+border-radius: 5px;
+padding: 20px;
+}
+.sizee{
+    font-size: 80px;
+    color:green;
+}
+.bus{
+    font-size: 25px;
+    background-color: blue;
+    padding-left: 50px;
+    width: 190px;
+    height: 50px;
+    border-radius: 7px;
+}

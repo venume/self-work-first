@@ -1,0 +1,39 @@
+
+.contenerr{
+    width: 100% !important;
+    height: 95px;
+    color:white;
+}
+.rang{
+    color:white;
+    margin: 80px;
+}
+.vigo{
+    background-color: rgb(231, 138, 17) !important;
+    border-radius: 8px;
+    border: none;
+}
+.contenerr{
+ background-color: rgb(92, 70, 128) !important;
+}
+.set{
+    width: 400px;
+    
+    
+}
+.d{
+    background-color: white !important;
+    
+
+}
+.fixedd{
+    position: fixed;
+    z-index: 100;
+
+}
+
+@media screen and (max-width:900px){
+    .set{
+        display: none;
+    }
+}

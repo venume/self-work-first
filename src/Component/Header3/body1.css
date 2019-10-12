@@ -1,0 +1,14 @@
+.bodyy{
+    display: flex;
+    justify-content: space-around;
+
+}
+.bodyy3{
+    color: rgb(80, 182, 80);
+    font-size: 25px;
+}
+@media only screen and (max-width: 600px) {
+    .bodyy {
+display: flex;
+flex-direction: column;    }
+  }
